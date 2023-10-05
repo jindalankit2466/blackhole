@@ -1,0 +1,1 @@
+console.log(Math.floor(Math.random(0,100)*100))
